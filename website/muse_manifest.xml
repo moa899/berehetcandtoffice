@@ -1,0 +1,121 @@
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="berehetculture.com" resolutions="1x" timestamp="1705852481219">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_a-master.css" crc="4019945784" ref="index"/>
+    <file name="index.css" crc="267731115" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="8bspyozncqskowspfzfmsyywfrv.jpg" crc="20852780" seo="true" mt="1659359587000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
+    <file name="museutils.js" crc="183364071" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index"/>
+    <file name="webpro.js" crc="3803554875" ref="index"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3993616448" ref="index"/>
+    <file name="form_check.php" crc="277267350" ref="index"/>
+    <file name="form_throttle.php" crc="3908387251" ref="index"/>
+    <file name="form_process.php" crc="24249335" ref="index"/>
+    <file name="form-u1860.php" crc="3818036951" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="logo-recovered.png" crc="3969558100" seo="true" ref="index"/>
+    <file name="u108-4.png" crc="349910562" ref="index"/>
+    <file name="u725-7.png" crc="452953126" ref="index"/>
+    <file name="dsc01356.jpg" crc="481472520" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u743.png" crc="3782425474" ref="index"/>
+    <file name="u743-r.png" crc="3818806122" ref="index"/>
+    <file name="u743-a.png" crc="3948702993" ref="index"/>
+    <file name="u745.png" crc="3900578662" ref="index"/>
+    <file name="u745-r.png" crc="25010495" ref="index"/>
+    <file name="u745-a.png" crc="434038410" ref="index"/>
+    <file name="u764-6.png" crc="165798814" ref="index"/>
+    <file name="hdrppcamera_20220119_165933.jpg" crc="4002529721" ref="index"/>
+    <file name="u364-4.png" crc="61079784" ref="index"/>
+    <file name="u1671-5.png" crc="4276892069" ref="index"/>
+    <file name="የሰማዕታት መታሰቢያ ሀውልት.jpg" crc="225430393" ref="index"/>
+    <file name="dsc08388.jpg" crc="4194261223" ref="index"/>
+    <file name="dsc08147.jpg" crc="25188704" ref="index"/>
+    <file name="absh.jpg" crc="3976131918" ref="index"/>
+    <file name="helbet.jpg" crc="4157553656" ref="index"/>
+    <file name="u766-10.png" crc="228068473" ref="index"/>
+    <file name="u774-10.png" crc="319023458" ref="index"/>
+    <file name="u1682-4.png" crc="280169669" ref="index"/>
+    <file name="ዲያር ዋሻ.jpg" crc="20551770" ref="index"/>
+    <file name="ቁም ድንጋይ.jpg" crc="509044898" ref="index"/>
+    <file name="ትንሹ ቁም ድንጋይ.jpg" crc="68320421" ref="index"/>
+    <file name="ማርዬ ዋሻ.jpg" crc="70069895" ref="index"/>
+    <file name="u1675-10.png" crc="413597135" ref="index"/>
+    <file name="dsc09747.jpg" crc="391254192" ref="index"/>
+    <file name="dsc00351.jpg" crc="234953409" ref="index"/>
+    <file name="u847-41.png" crc="3829488070" ref="index"/>
+    <file name="u851-6.png" crc="3806778333" ref="index"/>
+    <file name="u852-76.png" crc="30858103" ref="index"/>
+    <file name="dsc01361.jpg" crc="4054661287" ref="index"/>
+    <file name="dsc01364.jpg" crc="4017979497" ref="index"/>
+    <file name="dsc09747-u1894-fr.jpg" crc="282894311" ref="index"/>
+    <file name="dsc09814.jpg" crc="4132462475" ref="index"/>
+    <file name="u1977-4.png" crc="194441753" ref="index"/>
+    <file name="u1912.png" crc="3983365106" ref="index"/>
+    <file name="u1912-r.png" crc="4153538518" ref="index"/>
+    <file name="u1912-m.png" crc="4153538518" ref="index"/>
+    <file name="u1912-a.png" crc="4188864580" ref="index"/>
+    <file name="u1914-4.png" crc="4095134689" ref="index"/>
+    <file name="u1918.png" crc="3820771728" ref="index"/>
+    <file name="u1918-r.png" crc="3996185692" ref="index"/>
+    <file name="u1918-m.png" crc="3996185692" ref="index"/>
+    <file name="u1918-a.png" crc="178315740" ref="index"/>
+    <file name="u1917-4.png" crc="4004316397" ref="index"/>
+    <file name="u1922.png" crc="450580920" ref="index"/>
+    <file name="u1922-r.png" crc="3853042073" ref="index"/>
+    <file name="u1922-m.png" crc="3853042073" ref="index"/>
+    <file name="u1922-a.png" crc="252424702" ref="index"/>
+    <file name="u1921-4.png" crc="515881289" ref="index"/>
+    <file name="u1925.png" crc="309226213" ref="index"/>
+    <file name="u1925-r.png" crc="478193577" ref="index"/>
+    <file name="u1925-m.png" crc="478193577" ref="index"/>
+    <file name="u1925-a.png" crc="4259644318" ref="index"/>
+    <file name="u1970-5.png" crc="3912331401" ref="index"/>
+    <file name="u1930.png" crc="4063011976" ref="index"/>
+    <file name="u1930-r.png" crc="3987234387" ref="index"/>
+    <file name="u1930-m.png" crc="3987234387" ref="index"/>
+    <file name="u1930-a.png" crc="532692440" ref="index"/>
+    <file name="u1971-4.png" crc="4045145168" ref="index"/>
+    <file name="u1933.png" crc="3849944568" ref="index"/>
+    <file name="u1933-r.png" crc="4281654120" ref="index"/>
+    <file name="u1933-m.png" crc="4281654120" ref="index"/>
+    <file name="u1933-a.png" crc="306435777" ref="index"/>
+    <file name="u1972-4.png" crc="305584913" ref="index"/>
+    <file name="u1935.png" crc="191557792" ref="index"/>
+    <file name="u1935-r.png" crc="111761965" ref="index"/>
+    <file name="u1935-m.png" crc="111761965" ref="index"/>
+    <file name="u1935-a.png" crc="534310522" ref="index"/>
+    <file name="u1974-4.png" crc="4197032798" ref="index"/>
+    <file name="u1938.png" crc="3898561158" ref="index"/>
+    <file name="u1938-r.png" crc="4124995754" ref="index"/>
+    <file name="u1938-m.png" crc="4124995754" ref="index"/>
+    <file name="u1938-a.png" crc="339226181" ref="index"/>
+    <file name="u1975-4.png" crc="3968763470" ref="index"/>
+    <file name="u1858-16.png" crc="4030755515" ref="index"/>
+    <file name="u1859-4.png" crc="3994483160" ref="index"/>
+    <file name="dsc09505.jpg" crc="4265575462" ref="index"/>
+    <file name="dsc09489.jpg" crc="4079514243" ref="index"/>
+    <file name="የበረኸት ወረዳ ባህላዊ ቁሳቁሶች በከፊል.jpg" crc="434143492" ref="index"/>
+    <file name="dsc09482.jpg" crc="3970688870" ref="index"/>
+    <file name="dsc01378.jpg" crc="4028753342" ref="index"/>
+    <file name="u1835-111.png" crc="332660162" ref="index"/>
+    <file name="u1872-17.png" crc="311828129" ref="index"/>
+    <file name="u1872-17-r.png" crc="3844863548" ref="index"/>
+    <file name="u1872-17-m.png" crc="446077895" ref="index"/>
+    <file name="u1872-17-fs.png" crc="51175883" ref="index"/>
+    <file name="u1892-4.png" crc="3817870203" ref="index"/>
+    <file name="dsc09826.jpg" crc="3878128590" ref="index"/>
+    <file name="dsc09496.jpg" crc="3965815887" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4255485210" seo="true" mt="1705852480288" redirect="true"/>
+</manifest>
